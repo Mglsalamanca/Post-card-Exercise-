@@ -3,10 +3,7 @@ body {
 	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 	font-size: smaller;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
+
 .postcard {
 	background: white;
 	margin: auto;
